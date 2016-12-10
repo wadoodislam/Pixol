@@ -32,6 +32,7 @@ e.g  "Pixol -pubic rockleeofleaf -likes 20
 
 ##Dummy Account For Testing
 Username=> rockleeofleaf
+
 Password=> aevolw143..
 
 Note:=> As the app is in sandbox mode private account can download 20 most recent images.
