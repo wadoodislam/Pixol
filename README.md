@@ -1,5 +1,5 @@
 # PIXOL
-"Pixol" is a simple console application witten in C#, which does web-scraping on instagram web interface to download and back up the photos from a public as well as private instagram account.
+"Pixol" is a simple open source console application written in C#, which does web-scraping on instagram web interface to download and back up the photos from a public as well as private instagram account.
 
 ## Working
 To see full working and to learn about it more read [Documentation.docx](https://github.com/WadoodAmer/Pixol/blob/master/Documentation.docx).
@@ -39,3 +39,10 @@ Username=> rockleeofleaf
 Password=> aevolw143..
 
 Note:=> As the app is in sandbox mode private account can download 20 most recent images.
+
+## Working
+To see full working and to learn about it more read [Documentation.docx](https://github.com/WadoodAmer/Pixol/blob/master/Documentation.docx).
+
+## License
+
+[GNU General Public License v3.0](LICENSE)
