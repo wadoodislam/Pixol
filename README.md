@@ -1,9 +1,6 @@
 # PIXOL
 "Pixol" is a simple open source console application written in C#, which does web-scraping on instagram web interface to download and back up the photos from a public as well as private instagram account.
 
-## Working
-To see full working and to learn about it more read [Documentation.docx](https://github.com/WadoodAmer/Pixol/blob/master/Documentation.docx).
-
 ## How To Run
 1) Open the folder containing project.
 2) Goto ".../Pixol/Pixol/bin/Debug/" folder.
