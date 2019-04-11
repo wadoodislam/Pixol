@@ -14,11 +14,11 @@ The folder in which the Pixol.exe file is residing must have following files for
 3) Pixol.exe.config
 
 ## Compulsory Arguments
-a)   "-public" [username] for public account.
+-   "-public" [username] for public account.
 
 e.g: /Pixol.exe -public rockleeofleaf
 
-b)   "-private" [username] [password] for private account.
+-   "-private" [username] [password] for private account.
 
 e.g: /Pixol.exe -private rockleeofleaf aevolw143..
 
