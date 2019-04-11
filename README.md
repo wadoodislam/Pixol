@@ -27,7 +27,7 @@ e.g: /Pixol.exe -private rockleeofleaf aevolw143..
 "-likes" [minimum likes] specifier can be used to restrict the program to download only images
 which have likes greater than equal to specified number.
 
-e.g  "Pixol -pubic rockleeofleaf -likes 20
+e.g.  "Pixol -pubic rockleeofleaf -likes 20
 (this command will download all the images which have like >= 20)
 
 ## Dummy Account For Testing
